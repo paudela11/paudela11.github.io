@@ -5,7 +5,7 @@ title: Ayush Paudel
 description: Ayush's blog,use Jekyll and github pages.
 #keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /paudela11.github.io # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://paudela11.github.io/paudela11.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://paudela11.github.io/paudela11.github.io.git  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /paudela11.github.io/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
