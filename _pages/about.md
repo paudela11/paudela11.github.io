@@ -35,7 +35,7 @@ Talks
 Projects
 ======
 
-- [FPGA implementation of AES 128](https://unique-subedi.github.io/Misc_Writings/Dirichlet_s_Kernel_and_Zeta_2n_.pdf)    
+- [FPGA implementation of AES 128](https://paudela11.github.io/Misc_Writings/Senior_Design_Final (1).pdf)    
   Micah B. Milinovich and Unique Subedi
 - [On $L_1$-norm of Dirichlet's Kernel](https://unique-subedi.github.io/Misc_Writings/L1_Norm_of_Dirichlet_s_Kernel.pdf)  
   Micah B. Milinovich and Unique Subedi
