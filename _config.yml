@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Unique Subedi"
+title                    : "Ayush Paudel"
 title_separator          : "-"
-name                     : &name "Unique Subedi"
+name                     : &name "Ayush Paudel"
 description              : 
-url                      : https://unique-subedi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://paudela11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "unique-subedi/unique.github.io"
+repository               : "paudela11/paudela11.github.io"
 teaser                   :  "profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Unique Subedi"
+  name             : "Ayush Paudel"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student in Statistics @ University of Michigan"
-  location         : "Ann Arbor, Michigan"
+  bio              : "Master's Student in Electrical and Computer Engineering @ Michigan State University"
+  location         : "East Lansing, MI"
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "unique-subedi"
+  github           : "paudela11"
   google_plus      :
   keybase          :
   instagram        :
