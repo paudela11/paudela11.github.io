@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
+I am a graduate research assistant in the Electrical and Computer Engineering (ECE) department at the Michigan State University, where I am advised by [Prof. Peng Zhang](https://www.egr.msu.edu/people/profile/pz). I am part of the research group [NanoPATH](https://www.egr.msu.edu/~pz/) which specializes in theoretical and computational research in nanoelectronics, electromagnetic fields and waves, plasmas, and accelerator technology. 
 
 
-Research Interest
+General Interest
 ======
 
-I am broadly interested in theory of machine learning. In past, I have also studied probabilistic models of the problems arising in number theory. 
+I am broadly interested in the field of semiconductor physics, VLSI, microcontroller technologies as well as my passion of music. 
 
 
-Publications and Preprints
+Journal Publications
 ======
 
 - [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
