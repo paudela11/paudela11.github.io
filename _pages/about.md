@@ -85,15 +85,17 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
 
 - [FPGA implementation of AES 128](https://paudela11.github.io/Misc_Writings/Senior_Design_Final1.pdf)    
   Anurag Dhungel, Ayush Paudel, K.P. Regmi
+  
 - [Prediction of COVID-19 in the population of Wisconsin and Michigan](https://paudela11.github.io/Misc_Writings/884_final.pdf)
   Ayush Paudel
   
-**Interests:**
+**Personal Interests:**
 ======
 
 I love music. Checkout my latest performance here (I am the one playing the lead guitar):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPW1mysudcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 I also love hiking and being out in the nature. Being from Nepal, I am naturally attracted to the most strenuos of them. Here's a picture of me in the grand canyon.
