@@ -12,14 +12,14 @@ I am a graduate research assistant in the Electrical and Computer Engineering (E
 
  I will be graduating in May 2023 with a Masters in ECE. I am seeking opportunities to kickstart my career as a electronics engineer in the semiconductor industry.
 
-General Interest
+<center>General Interest</center>
 ======
 
 I am broadly interested in the field of semiconductor physics, VLSI and[
 https://arxiv.org/abs/2301.02729](https://ieeexplore.ieee.org/document/9813326) microcontroller technologies. 
 
 
-Journal Publications
+<center>Journal Publications</center>
 ======
 
 - [Discrete cavity analysis of CC-TWTs](https://ieeexplore.ieee.org/document/9813326))   
@@ -27,12 +27,12 @@ A. Paudel, P. Zhang, P. Wong, J. W. Luginsland, M. A. Franzi
 *Preprint*, 2022    
 
 
-Talks
+<center>Talks</center>
 ======
 - Discrete Cavity Analysis of Coupled Cavity Travelling Wave Tubes (CC-TWTs) (IVEC 2022, Monterey,CA ; ICOPS 2022, Seattle, WA) 
 
 
-Projects
+<center>Projects</center>
 ======
 
 - [FPGA implementation of AES 128](https://paudela11.github.io/Misc_Writings/Senior_Design_Final1.pdf)    
@@ -40,7 +40,7 @@ Projects
 
 
 
-Teaching
+<center>Teaching</center>
 ======
 I have been a Graduate Student Instructor for the following courses at Michigan:
 - [Statistics and AI](https://ambujtewari.github.io/stats315-winter2023/), Winter 2023
