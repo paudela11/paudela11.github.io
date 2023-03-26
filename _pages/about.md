@@ -62,23 +62,23 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
   * Parallel computing thru MPI
 * Miscellaneous(Intermediate Expertise):
   * LATEX
-  * EXCEL
+  * Excel
   * MULTISIM, PSPICE
   * LABVIEW
-  * CADENCE
+  * Cadence
   * Wolfram Mathematica
-  * Altrium
+  * Altium Designer
  
 **Conference Papers:**
 ======
 
-[Discrete cavity analysis of Coupled Cavity Travelling Wave Tubes (CC-TWTs) ](https://ieeexplore.ieee.org/document/9813326))   
-A. Paudel, P. Zhang, P. Wong, J. W. Luginsland, M. A. Franzi
-IEEE, 2022    
+- [Discrete cavity analysis of Coupled Cavity Travelling Wave Tubes (CC-TWTs) ](https://ieeexplore.ieee.org/document/9813326))   
+  A. Paudel, P. Zhang, P. Wong, J. W. Luginsland, M. A. Franzi
+  IEEE, 2022    
 
 **Talks:**
 ======
-Discrete Cavity Analysis of CC-TWTs, IVEC 2022, Monterey,CA ; ICOPS 2022, Seattle, WA) 
+- Discrete Cavity Analysis of CC-TWTs, IVEC 2022, Monterey,CA ; ICOPS 2022, Seattle, WA) 
 
 **Projects:**
 ======
@@ -86,14 +86,24 @@ Discrete Cavity Analysis of CC-TWTs, IVEC 2022, Monterey,CA ; ICOPS 2022, Seattl
 - [FPGA implementation of AES 128](https://paudela11.github.io/Misc_Writings/Senior_Design_Final1.pdf)    
   Anurag Dhungel, Ayush Paudel, K.P. Regmi
 - [Prediction of COVID-19 in the population of Wisconsin and Michigan](paudela11.github.io/Misc_Writings/884_Final.pdf)
-
+  Ayush Paudel
+  
 **Interests:**
 ======
+
 Music:
 
-Checkout my latest performance here (I am the one playing the lead):
+Checkout my latest performance here (I am the one playing the lead guitar):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPW1mysudcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Other Interests:
-Hiking, Adventure Sports,
+Hiking:
+I've been to the bottom of the grand canyon.
+![IMG_2274](https://user-images.githubusercontent.com/122549493/227811002-3401c264-3425-444f-96e8-09eabdbd763d.jpg)
+
+
+Adventure Sports:
+The most exhillerating thrill that I have ever experienced was bungee jumping.
+
+![Image 3-26-23 at 7 11 PM](https://user-images.githubusercontent.com/122549493/227811043-8278bba1-5ef2-4037-aa22-2f87141f6ab4.JPEG)
 
