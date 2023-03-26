@@ -11,9 +11,10 @@ redirect_from:
 I am a graduate research assistant in the Electrical and Computer Engineering (ECE) department at the Michigan State University, where I am advised by [Prof. Peng Zhang](https://www.egr.msu.edu/people/profile/pz). I am part of the research group [NanoPATH](https://www.egr.msu.edu/~pz/).
 
  I will be graduating in May 2023 with a Masters in ECE. I am seeking opportunities to kickstart my career as a electronics engineer in the semiconductor industry.
-
-<center>General Interest</center>
-
+ 
+<div style="border: 4px solid green; border-radius: 10px; padding: 10px;">
+<center>**General Interest**</center>
+</div>
 <div style="border: 4px solid green; border-radius: 10px; padding: 10px;">
 I am broadly interested in the field of semiconductor physics, VLSI and microcontroller technologies. 
 </div>
