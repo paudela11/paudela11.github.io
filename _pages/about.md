@@ -87,7 +87,7 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
   Anurag Dhungel, Ayush Paudel, K.P. Regmi
   
 - [Prediction of COVID-19 in the population of Wisconsin and Michigan](https://paudela11.github.io/Misc_Writings/884_final.pdf)
-  Ayush Paudel
+   Ayush Paudel
   
 **Personal Interests:**
 ======
