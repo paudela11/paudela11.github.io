@@ -85,7 +85,7 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
 
 - [FPGA implementation of AES 128](https://paudela11.github.io/Misc_Writings/Senior_Design_Final1.pdf)    
   Anurag Dhungel, Ayush Paudel, K.P. Regmi
-- [Prediction of COVID-19 in the population of Wisconsin and Michigan](paudela11.github.io/Misc_Writings/884_Final.pdf)
+- [Prediction of COVID-19 in the population of Wisconsin and Michigan](https://paudela11.github.io/Misc_Writings/884_Final.pdf)
   Ayush Paudel
   
 **Interests:**
