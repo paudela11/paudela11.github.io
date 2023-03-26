@@ -8,66 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). Previously, I studied mathematics and computer science at the University of Mississippi (Olemiss). During my time there, I was fortunate to work with [Prof. Rizwanur Khan](http://home.olemiss.edu/~rrkhan/) and [Prof. Micah Milinovich](http://home.olemiss.edu/~mbmilino/) in number theory. 
+<div style="border: 4px solid LightSkyBlue; border-radius: 10px; padding: 10px;">
 
+I am a graduate research assistant in the Electrical and Computer Engineering (ECE) department at the Michigan State University, where I am advised by [Prof. Peng Zhang](https://www.egr.msu.edu/people/profile/pz). I am part of the research group [NanoPATH](https://www.egr.msu.edu/~pz/).
 
-Research Interest
+ I will be graduating in May 2023 with a Masters in ECE. I am seeking opportunities to kickstart my career as a electronics engineer in the semiconductor industry.
+</div>
+
+**General Interest:**
 ======
 
-I am broadly interested in theory of machine learning. In past, I have also studied probabilistic models of the problems arising in number theory. 
+I am broadly interested in the field of semiconductor physics, VLSI and microcontroller technologies. 
 
-
-Publications and Preprints
+**Conference Papers:**
 ======
 
-- [A Characterization of Multioutput Learnability](https://arxiv.org/abs/2301.02729)   
-Vinod Raman, Unique Subedi, Ambuj Tewari  
-*Preprint*, 2023    
+- [Discrete cavity analysis of CC-TWTs](https://ieeexplore.ieee.org/document/9813326))   
+A. Paudel, P. Zhang, P. Wong, J. W. Luginsland, M. A. Franzi
+*Preprint*, 2022    
 
 
-- [On Proper Learnability between Average- and Worst-case Robustness](https://arxiv.org/abs/2211.05656)    
-Vinod Raman, Unique Subedi, Ambuj Tewari    
-*NeurIPS (ML Safety Workshop)*, 2022    
-
-
-- [A Weighted Version of Erdős-Kac Theorem](https://www.sciencedirect.com/science/article/abs/pii/S0022314X21003681)  
-Rizwanur Khan, Micah Milinovich, Unique Subedi    
-*Journal of Number Theory*, 2022    
-  
-
-- [A Conjectural Asymptotic Formula for Multiplicative Chaos in Number Theory](https://link.springer.com/article/10.1007/s40993-022-00332-x)    
-Daksh Aggarwal, Unique Subedi, William Verreault, Asif Zaman, Chengui Zheng     
-*Research in Number Theory*, 2022   
-
-
-- [Sums of Random Multiplicative Functions over Function Fields with Few Irreducible Factors](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/abs/sums-of-random-multiplicative-functions-over-function-fields-with-few-irreducible-factors/636667B07830029AB35196FF595CA055)   
-Daksh Aggarwal, Unique Subedi, William Verreault, Asif Zaman, Chengui Zheng     
-*Mathematical Proceedings of the Cambridge Philosophical Society*, 2022   
-
-- [A Weighted Version of Erdős-Kac Theorem](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=2687&context=hon_thesis), *Undergraduate Thesis*
-
-
-
-
-Talks
+**Talks:**
 ======
-- A Weighted Version of Erdos-Kac Theorem (Number Theory Seminar, Ole Miss) 
-- Computational Investigations of Random Multiplicative Functions (FUSRP 2020)
+- Discrete Cavity Analysis of Coupled Cavity Travelling Wave Tubes (CC-TWTs) (IVEC 2022, Monterey,CA ; ICOPS 2022, Seattle, WA) 
 
 
-Miscallaneous Writing
+**Projects:**
 ======
 
-- [An Elementary Evaluation of $\zeta(2n)$ Using Dirichlet's Kernel](https://unique-subedi.github.io/Misc_Writings/Dirichlet_s_Kernel_and_Zeta_2n_.pdf)    
-  Micah B. Milinovich and Unique Subedi
-- [On $L_1$-norm of Dirichlet's Kernel](https://unique-subedi.github.io/Misc_Writings/L1_Norm_of_Dirichlet_s_Kernel.pdf)  
-  Micah B. Milinovich and Unique Subedi
+- [FPGA implementation of AES 128](https://paudela11.github.io/Misc_Writings/Senior_Design_Final1.pdf)    
+  Anurag Dhungel, Ayush Paudel, K.P. Regmi
 
 
 Teaching
 ======
-I have been a Graduate Student Instructor for the following courses at Michigan:
-- [Statistics and AI](https://ambujtewari.github.io/stats315-winter2023/), Winter 2023
-- [Bayesian Data Analysis](https://yixinwang.github.io/courses/bayesian/fall22/bayesian22f.html), Fall 2022
-- Applied Regression Analysis, Winter 2022
-- Introduction to Statistics and Data Analysis, Fall 2021
