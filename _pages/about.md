@@ -13,9 +13,12 @@ I am a graduate research assistant in the Electrical and Computer Engineering (E
  I will be graduating in May 2023 with a Masters in ECE. I am seeking opportunities to kickstart my career as a electronics engineer in the semiconductor industry.
 
 <center>General Interest</center>
-======
 
+<div style="border: 4px solid green; border-radius: 10px; padding: 10px;">
 I am broadly interested in the field of semiconductor physics, VLSI and microcontroller technologies. 
+</div>
+
+
 
 
 <center>Journal Publications</center>
