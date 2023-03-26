@@ -54,7 +54,7 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
   * FPGA logic design and testing
   * Knowledge of routing and timing analysis
   * Knowledge of interdevice communication methods such as UART.
-  */ See under projects for representative paper. /*
+  * (See under projects for representative paper.) *
 * C++:
   * Memory routing
   * Multi-thread programming 
@@ -85,25 +85,22 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
 
 - [FPGA implementation of AES 128](https://paudela11.github.io/Misc_Writings/Senior_Design_Final1.pdf)    
   Anurag Dhungel, Ayush Paudel, K.P. Regmi
-- [Prediction of COVID-19 in the population of Wisconsin and Michigan](https://paudela11.github.io/Misc_Writings/884_Final.pdf)
+- [Prediction of COVID-19 in the population of Wisconsin and Michigan](https://paudela11.github.io/Misc_Writings/884_final.pdf)
   Ayush Paudel
   
 **Interests:**
 ======
 
-Music:
+I love music. Checkout my latest performance here (I am the one playing the lead guitar):
 
-Checkout my latest performance here (I am the one playing the lead guitar):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPW1mysudcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Other Interests:
-Hiking:
-I've been to the bottom of the grand canyon.
+I also love hiking and being out in the nature. Being from Nepal, I am naturally attracted to the most strenuos of them. Here's a picture of me in the grand canyon.
+
 ![IMG_2274](https://user-images.githubusercontent.com/122549493/227811002-3401c264-3425-444f-96e8-09eabdbd763d.jpg)
 
 
-Adventure Sports:
-The most exhillerating thrill that I have ever experienced was bungee jumping.
+I also like adventure sports. Rafting, scuba, mountaneering, etc are all fun. But the most exhillerating thrill that I have ever experienced was bungee jumping.
 
 ![Image 3-26-23 at 7 11 PM](https://user-images.githubusercontent.com/122549493/227811043-8278bba1-5ef2-4037-aa22-2f87141f6ab4.JPEG)
 
