@@ -15,8 +15,7 @@ I am a graduate research assistant in the Electrical and Computer Engineering (E
 <center>General Interest</center>
 ======
 
-I am broadly interested in the field of semiconductor physics, VLSI and[
-https://arxiv.org/abs/2301.02729](https://ieeexplore.ieee.org/document/9813326) microcontroller technologies. 
+I am broadly interested in the field of semiconductor physics, VLSI and microcontroller technologies. 
 
 
 <center>Journal Publications</center>
