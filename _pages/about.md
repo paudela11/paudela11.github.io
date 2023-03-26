@@ -8,6 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <div style="border: 4px solid LightSkyBlue; border-radius: 10px; padding: 10px;">
 
 I am a graduate research assistant in the Electrical and Computer Engineering (ECE) department at the Michigan State University, where I am advised by [Prof. Peng Zhang](https://www.egr.msu.edu/people/profile/pz). I am part of the research group [NanoPATH](https://www.egr.msu.edu/~pz/).
