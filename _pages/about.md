@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate research assistant in the Electrical and Computer Engineering (ECE) department at the Michigan State University, where I am advised by [Prof. Peng Zhang](https://www.egr.msu.edu/people/profile/pz). I am part of the research group [NanoPATH](https://www.egr.msu.edu/~pz/). I will be graduating in May 2023 with a Masters in ECE. I am seeking opportunities to kickstart my career as a electronics engineer in the semiconductor industry. 
+I have recently graduated with a Masters in Electrical and Computer Engineering from Michigan State University, where I was advised by [Prof. Peng Zhang](https://www.egr.msu.edu/people/profile/pz). I was a part of the research group [NanoPATH](https://www.egr.msu.edu/~pz/). I am seeking opportunities to kickstart my career as a microelectronic/automation engineer. 
 
 [Click here for my resume.](https://paudela11.github.io/Misc_Writings/resume_Ayush1.pdf)
+
+[Click here for my Vitae.](https://paudela11.github.io/Misc_Writings/cv_paude.docx)
 
 **General Interest:**
 ======
 
-I am broadly interested in the field of semiconductor physics, VLSI and microcontroller technologies. 
+I am broadly interested in the field of microcontrollers, automation, semiconductor physics, and VLSI. 
 
 **Education:**
 ======
@@ -28,12 +30,12 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
 
 * May 2021: Research Assistant Intern
   * Michigan State University
-  * Duties included: Grappling the theoritical understanding behind HPMs, Solving DEs numerically, Performing simulations for HPM devices.
+  * Duties included: Grappling the theoretical understanding behind high-power microwaves (HPM), solving theoretical problems, and performing simulations for HPM devices.
   * Supervisors: [Dr. Peng Zhang](https://www.egr.msu.edu/people/profile/pz), [Dr. John Verbencour](https://cmse.msu.edu/directory/faculty/john-verboncoeur/)
 
 * Fall 2021: Graduate Research Assistant
   * Michigan State University
-  * Duties included: Continuing research on travelling wave tubes, Attending seminars, Collaborating with researchers, Mentoring a student
+  * Duties included: Continuing research on traveling wave tubes, Attending seminars, Collaborating with researchers, Mentoring a student
   * Supervisor: [Dr. Peng Zhang](https://www.egr.msu.edu/people/profile/pz)
   
 **Skills:**
@@ -42,7 +44,7 @@ I am broadly interested in the field of semiconductor physics, VLSI and microcon
 * Python:
   * Algorithm design
   * Solving differential equations
-  * Performing two dimensional simulations
+  * Performing two-dimensional simulations
   * Data analysis using pandas and numpy
   * Data visualization using matplotlib and seaborn
   * Beginner machine learning using TENSORFLOW
